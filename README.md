@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Fix cmake requirements for ARM64 (#8589)
