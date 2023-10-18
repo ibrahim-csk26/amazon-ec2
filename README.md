@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
