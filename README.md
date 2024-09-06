@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
